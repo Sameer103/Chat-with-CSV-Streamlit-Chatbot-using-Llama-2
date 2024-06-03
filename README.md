@@ -6,6 +6,10 @@ This project implements a chatbot using Streamlit that allows users to upload a 
 # Dataset
 The dataset used in this project is Clear Quote's March 2024 dataset, available online on GitHub. This dataset contains comprehensive information suitable for various analytical purposes. Users can upload this or any other CSV dataset to interact with through the chatbot.
 
+# Llama 2 Model
+Download the llama-2-7b-chat.ggmlv3.q8_0.bin : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
+the size would be of 7.16GB but that is neccesary to run our model locally.
+
 # RAG Technique
 The project employs a Conversational Retrieval Chain, combining document retrieval and language generation:
 
