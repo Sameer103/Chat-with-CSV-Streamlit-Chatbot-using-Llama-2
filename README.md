@@ -46,7 +46,7 @@ Prerequisites
 * Pip
 
 # Installation
-* Clone the repository: git clone https://github.com/your-repo/chat-with-csv-streamlit.git
+* Clone the repository: git clone https://github.com/Sameer103/Chat-with-CSV-Streamlit-Chatbot-using-Llama-2.git
 
 cd chat-with-csv-streamlit
 
