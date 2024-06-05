@@ -3,7 +3,7 @@ Streamlit with Llama 2
 
 This project implements a chatbot using Streamlit that allows users to upload a CSV file and interact with the data through conversational queries. The chatbot utilizes the Llama 2 language model, enhanced with a Retrieval-Augmented Generation (RAG) technique to provide accurate and relevant responses based on the content of the uploaded CSV file.
 
-[![Video Title](Video Thumbnail URL)]([https://youtu.be/tmWMl5y34GE](https://youtu.be/tmWMl5y34GE))
+[![Alt text](https://i3.ytimg.com/vi/tmWMl5y34GE/maxresdefault.jpg)](https://youtu.be/tmWMl5y34GE)
 
 # Dataset
 The dataset used in this project is Clear Quote's March 2024 dataset, available online on GitHub. This dataset contains comprehensive information suitable for various analytical purposes. Users can upload this or any other CSV dataset to interact with through the chatbot.
